@@ -7,14 +7,17 @@
     </types>
     <types>
         <members>eswar-1%28communitiestest%29</members>
+        <members>eswar-2%28communitiestest%29</members>
         <name>ManagedTopics</name>
     </types>
     <types>
         <members>eswar-1%28communitiestest%29</members>
+        <members>eswar-2%28communitiestest%29</members>
         <name>Network</name>
     </types>
     <types>
         <members>eswar-1%28communitiestest%29 Profile</members>
+        <members>eswar-2%28communitiestest%29 Profile</members>
         <name>Profile</name>
     </types>
 </Package>
